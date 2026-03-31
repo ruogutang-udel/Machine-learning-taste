@@ -10,3 +10,5 @@ To build a foundation in machine learning for research applications in biochar, 
 
 ## Author
 Ruogu Tang
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ddc67481-8b4f-4ec0-bb45-a9014ef5f1b9" />
